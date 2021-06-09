@@ -1,6 +1,6 @@
 # selenium_nodejs_test
 
-# for install dependencies run
+# for installing dependencies run
 npm install
 
 # chrome driver version 91
